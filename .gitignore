@@ -1,0 +1,5 @@
+./build
+.DS_Store
+Doorbell/
+hkdoorbell
+hkdoorbell-*_linux_armhf
